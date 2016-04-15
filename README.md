@@ -1,4 +1,4 @@
-# Win Dirty Derial
+# Win Dirty Serial
 
 Small lightweight C++ serial library pulled out of openFrameworks and remaster to be standalone
 
